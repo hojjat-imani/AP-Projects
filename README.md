@@ -1,6 +1,6 @@
 # Advanced Computer Programming Projects
 
-- Teacher : Prof. Noor Hoseini
+- Teacher : Prof.  Noorhosseini
 - Amirkabir University Of Technology (Tehran Polytechnic)
 - 2013 - 2014
 
